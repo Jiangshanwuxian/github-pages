@@ -1,0 +1,69 @@
+ header {
+        background-color: #6b8e23;
+        color: #fff;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    header h1 {
+        margin: 0;
+    }
+
+    .container {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        padding: 20px;
+        background: #fff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+    }
+
+    .services {
+        margin: 20px 0;
+    }
+
+    .services h2 {
+        color: #6b8e23;
+    }
+
+    .services ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .services li {
+        background: #eef9e8;
+        margin: 10px 0;
+        padding: 10px;
+        border-left: 4px solid #6b8e23;
+    }
+
+    footer {
+        text-align: center;
+        background: #6b8e23;
+        color: #fff;
+        padding: 10px 0;
+        margin-top: 20px;
+    }
+</style>
+<section class="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li><strong>Deep Tissue Massage:</strong> Relieve muscle tension and pain with targeted pressure for lasting relief.</li>
+        <li><strong>Fatigue Expulsion:</strong> Combat exhaustion and restore your energy through our revitalizing treatments.</li>
+        <li><strong>Body Awakening Therapy:</strong> Stimulate your senses and achieve full-body relaxation and rejuvenation.</li>
+        <li><strong>Microcirculation Improvement:</strong> Enhance blood flow and promote overall wellness.</li>
+        <li><strong>Therapeutic Solutions for Pain:</strong> Effective treatments for neck and shoulder pain, dizziness, headaches, lumbar muscle strain, and more.</li>
+    </ul>
+</section>
+
+<section class="slogan">
+    <blockquote>
+        <em>"Awaken Your Body, Renew Your Mind."</em>
+    </blockquote>
+</section>
+
+<section class="benefits">
+    <p>With our expertise, we deliver noticeable therapeutic benefits, helping you feel your best. Discover the ultimate balance of relaxation and healing at <strong>Massage Wellbeing & Cultural & Pastoral Musical Studio</strong>.</p>
+</section>
